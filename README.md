@@ -6,13 +6,22 @@
 3.  **PyPI Packages (Not Installed):** Information on packages available on the Python Package Index (PyPI), allowing you to discover new tools and see installation commands without leaving the app.
 
  **Key Features:**
+       
+        
         * **Offline Access:** Once cached, documentation for standard and installed modules is available without an internet connection. PyPI package details are cached for future offline viewing too.
+       
         * **Personal Notes:** Add and save your own notes, reminders, and code snippets directly alongside the documentation for any item. Your notes are saved locally and persist between sessions.
+      
         * **Integrated Search:** Quickly find documentation across all categories (Standard, Installed, PyPI).
+      
         * **Syntax Highlighting:** Docstrings and code examples are enhanced with basic Python syntax highlighting for better readability.
+       
         * **Clickable URLs:** External links (like PyPI project pages or homepages) are clickable, opening directly in your web browser.
+       
         * **History Navigation:** Use the "Back" and "Forward" buttons to easily revisit previously viewed items.
+       
         * **Configurable Font Size:** Adjust the text size to your preference for comfortable reading.
+       
         * **Dynamic UI:** Resizable panels allow you to customize the layout.
         
 **Why PyRef?**
