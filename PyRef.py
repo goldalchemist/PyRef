@@ -1724,7 +1724,7 @@ class PythonHelperGUI:
         All cache files and your personal notes are stored in:
         `{CACHE_DIR}` (your home directory's hidden PyRef cache folder).
 
-        **Author:** The PyRef Developer
+        **Author:** Andrew Stephens (goldalchemist)
         **Version:** 1.0
         **License:** MIT License
 
